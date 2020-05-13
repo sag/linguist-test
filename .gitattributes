@@ -1,1 +1,2 @@
 languages/words-*.yml linguist-generated=true
+languages/words-*.yml -diff -merge
